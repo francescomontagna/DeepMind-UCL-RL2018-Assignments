@@ -3,6 +3,8 @@ Reinforcement Learning Course 2018 | DeepMind &amp; UCL - Assignments
 
 Solutions implementation:  
 - [x] Assignment 1  
-- [ ] Assignment 2  
-- [ ] Assignment 3  
+- [x] Assignment 2  
+- [x] Assignment 3  
 - [ ] Assignment 4  
+
+TODO: review questions' answers
