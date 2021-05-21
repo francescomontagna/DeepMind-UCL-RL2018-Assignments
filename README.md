@@ -6,5 +6,3 @@ Solutions implementation:
 - [x] Assignment 2  
 - [x] Assignment 3  
 - [ ] Assignment 4  
-
-TODO: review questions' answers
